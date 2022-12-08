@@ -1,0 +1,17 @@
+*{
+    font-family: 'Nunito', sans-serif;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+
+}
+body {
+    height: 100vh;
+    width: 100vh;
+    background-image: url();
+    background-size:contain;
+}
+h3 {
+padding: 30px,20px,30px,5px;
+
+}
